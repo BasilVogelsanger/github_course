@@ -1,0 +1,2 @@
+This is some sample info data.
+It can be used to demonstrate file changes and commits.

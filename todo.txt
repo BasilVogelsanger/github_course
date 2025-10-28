@@ -1,0 +1,5 @@
+- Set up Git repository
+- Add files
+- Make a commit
+- Create a branch
+- Merge changes
